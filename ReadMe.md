@@ -66,6 +66,9 @@ Login Page
 
 Chat Interface
 ![alt text](image-1.png)
+
+Mobile Interface
+![alt text](image-2.png)
 ---
 
 ## Future Improvements
