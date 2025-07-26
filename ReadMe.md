@@ -59,7 +59,7 @@ A full-stack **Realtime Chat Application** with modern UI/UX, secure authenticat
 
 ---
 
-## Screenshots (optional)
+## Screenshots
 
 Login Page
 ![alt text](image.png)
