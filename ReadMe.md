@@ -59,6 +59,15 @@ A full-stack **Realtime Chat Application** with modern UI/UX, secure authenticat
 
 ---
 
+## Screenshots (optional)
+
+Login Page
+![alt text](image.png)
+
+Chat Interface
+![alt text](image-1.png)
+---
+
 ## Future Improvements
 
 - Group Chats
