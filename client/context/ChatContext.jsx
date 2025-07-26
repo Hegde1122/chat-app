@@ -90,10 +90,6 @@ export const ChatProvider = ({ children }) => {
     return () => unsubscribeFromMessages();
   }, [socket, selectedUser]);
 
-  useEffect(() => {
-  console.log("Now showing sidebar for:", selectedUser?.fullName)
-}, [selectedUser])
-
 
   const value = {
     messages,
